@@ -1,0 +1,59 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295.74 766.6" width="295.74" height="766.6" id="m9d2b6d__root" data-diagram-type="flowchart">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-node .m-shape{fill:var(--m-node-fill);stroke:var(--m-node-stroke);stroke-width:1.5px}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .t-label{font-size:13px;font-weight:500}.mercat .m-rt-bold{font-weight:700}.mercat .m-rt-regular{font-weight:400}</style>
+  <style data-mercat-style="theme-light">#m9d2b6d__root{--m-text:#1f1f1f;--m-line:#545454;--m-node-fill:#f8f9fa;--m-node-stroke:#747775}</style>
+  <style data-mercat-style="theme-dark">#m9d2b6d__root.dark{--m-text:#e3e3e3;--m-line:#bfbfbf;--m-node-fill:#2d2e30;--m-node-stroke:#8e918f}</style>
+  <style data-mercat-style="diagram">#m9d2b6d__root .m-s0 .m-shape,#m9d2b6d__root .m-s0 .m-path{fill:#d1fae5;stroke:#059669;stroke-width:2px}#m9d2b6d__root.dark .m-s0 .m-shape,#m9d2b6d__root.dark .m-s0 .m-path{fill:#126038;stroke:#08eca5}</style>
+  <g class="mercat mercat-flowchart" transform="translate(-35, -35)">
+    <defs>
+      <marker id="m9d2b6d__mk-arrow" refX="9.45" refY="3.4" markerWidth="10.8" markerHeight="6.8" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 0 L 10.8 3.4 L 0 6.8 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S1__S2__0" data-role="connector">
+      <path d="M 182.87 103.8 L 182.87 162.45" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S2__S3__0" data-role="connector">
+      <path d="M 182.87 217.6 L 182.87 276.25" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S3__S4__0" data-role="connector">
+      <path d="M 182.87 331.4 L 182.87 390.05" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S4__S5__0" data-role="connector">
+      <path d="M 182.87 445.2 L 182.87 503.85" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S5__S6__0" data-role="connector">
+      <path d="M 182.87 559 L 182.87 617.65" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m9d2b6d__edge__S6__S7__0" data-role="connector">
+      <path d="M 182.87 672.8 L 182.87 731.45" class="m-path" marker-end="url(#m9d2b6d__mk-arrow)"/>
+    </g>
+    <g class="m-node m-node--rect" id="m9d2b6d__node__S1" data-role="vertex">
+      <rect x="91.06" y="50" width="183.62" height="53.8" class="m-shape"/>
+      <text x="182.87" y="76.9" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px">1. Decide weekly offer</tspan><tspan x="182.87" dy="16.9px">Manual: 10 min → 10 min</tspan></text>
+    </g>
+    <g class="m-node m-node--rect m-s0" id="m9d2b6d__node__S2" data-role="vertex">
+      <rect x="54.52" y="163.8" width="256.71" height="53.8" class="m-shape"/>
+      <text x="182.87" y="190.7" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px" class="m-rt-regular">2. Collect / provide details</tspan><tspan x="182.87" dy="16.9px" class="m-rt-bold">[AI Assisted]</tspan><tspan class="m-rt-regular">: 8 min → 3 min (-5 min)</tspan></text>
+    </g>
+    <g class="m-node m-node--rect m-s0" id="m9d2b6d__node__S3" data-role="vertex">
+      <rect x="50.59" y="277.6" width="264.56" height="53.8" class="m-shape"/>
+      <text x="182.87" y="304.5" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px" class="m-rt-regular">3. Prepare caption</tspan><tspan x="182.87" dy="16.9px" class="m-rt-bold">[AI Assisted]</tspan><tspan class="m-rt-regular">: 12 min → 4 min (-8 min)</tspan></text>
+    </g>
+    <g class="m-node m-node--rect m-s0" id="m9d2b6d__node__S4" data-role="vertex">
+      <rect x="50" y="391.4" width="265.74" height="53.8" class="m-shape"/>
+      <text x="182.87" y="418.3" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px" class="m-rt-regular">4. Select hashtags</tspan><tspan x="182.87" dy="16.9px" class="m-rt-bold">[AI Assisted]</tspan><tspan class="m-rt-regular">: 10 min → 4 min (-6 min)</tspan></text>
+    </g>
+    <g class="m-node m-node--rect m-s0" id="m9d2b6d__node__S5" data-role="vertex">
+      <rect x="54.52" y="505.2" width="256.71" height="53.8" class="m-shape"/>
+      <text x="182.87" y="532.1" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px" class="m-rt-regular">5. Create image</tspan><tspan x="182.87" dy="16.9px" class="m-rt-bold">[AI Assisted]</tspan><tspan class="m-rt-regular">: 5 min → 3 min (-2 min)</tspan></text>
+    </g>
+    <g class="m-node m-node--rect" id="m9d2b6d__node__S6" data-role="vertex">
+      <rect x="88.04" y="619" width="189.67" height="53.8" class="m-shape"/>
+      <text x="182.87" y="645.9" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px">6. Review content</tspan><tspan x="182.87" dy="16.9px">Human QC: 5 min → 5 min</tspan></text>
+    </g>
+    <g class="m-node m-node--rect" id="m9d2b6d__node__S7" data-role="vertex">
+      <rect x="99.58" y="732.8" width="166.59" height="53.8" class="m-shape"/>
+      <text x="182.87" y="759.7" class="m-label t-label" text-anchor="middle"><tspan x="182.87" dy="-8.45px">7. Publish post</tspan><tspan x="182.87" dy="16.9px">Manual: 5 min → 5 min</tspan></text>
+    </g>
+  </g>
+</svg>
